@@ -1,4 +1,4 @@
-# Fs-min-project-CreditCardValidator
+# Fs-mini-project-CreditCardValidator
 
 Programming language used- C++
 
